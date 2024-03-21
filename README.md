@@ -3,7 +3,8 @@
 ### Alunos:
 
 1. Alex Junior Mahia Amaral - Matrícula: 202111245
-
+2. José Carlos Romão da Silva Junior - 202110818
+3. Leonardo Avelar - 202110529
 ---
 
 ## Descrição:
